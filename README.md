@@ -16,5 +16,6 @@ https://github.com/badges/shields
 ## Run
 
 python main.py skills "python,c,c++,java,go,rust" default
+
 python main.py shields "python,c,c++,java,go,rust" [white, random]
 
